@@ -1,0 +1,42 @@
+.userProfileContainer {
+    display: flex;
+    align-items: center;
+    margin-top: 29px;
+  }
+  
+  .userProfileImage {
+    width: 295px;
+    height: 330px;
+    margin-right: 20px;
+  }
+  
+  .userInfoContainer {
+    margin-top: -89px
+  }
+  
+  .userInfoContainer p {
+    margin-bottom: 10px;
+    border: 1px solid lightgrey;
+    margin: 0px;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 431px;
+  }
+
+  .repository div {
+    border: 1px solid lightgrey;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+
+  }
+
+  .repository div a {
+    text-decoration: none;
+  }
+ 
+  .search {
+    margin-bottom: 30px;
+
+  }
