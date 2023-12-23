@@ -16,8 +16,7 @@ function App() {
   }, [defaultUsername]);
 
   const searchUser = async (username) => {
-    const clientId = 'd447e4c9f004811f976a';
-    const clientSecret = '1ab153a03408d19f6ba62e1297cfdc696dc014dd';
+   
 
     try {
       // Fetch user data
